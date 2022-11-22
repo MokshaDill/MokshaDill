@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--Streak state-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MokshaDill&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+
+
+
 lnjiuhiuoh
 ojojo
 ioj]##ujo
@@ -32,6 +38,12 @@ ij
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MokshaDill)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
