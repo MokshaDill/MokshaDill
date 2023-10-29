@@ -32,7 +32,7 @@
   </table>
   
 
-/*
+<!--
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -72,7 +72,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   
 
 
- */
+-->
  
 
 
