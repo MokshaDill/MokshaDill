@@ -16,16 +16,14 @@ skills while contributing to meaningful projects in the field of data science.
     <td>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: WAMD Wiyathunga
+located_in: Gampaha, Srilanka
+current_job: Undergraduate Software Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Learner",
+    "Bachelor's in Software Engineering",
   ]
-company: Soulber
 
 fields_of_interests:
   [
@@ -36,13 +34,7 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & ML in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
+
   
 currently_learning: ["Docker, Kubernetes"]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
