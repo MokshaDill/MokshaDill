@@ -48,10 +48,12 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <td>
 <table>
   <tr>
-    <img align="center" src="https://privacyinternational.org/sites/default/files/flysystem/2017-12/giphy.gif" width="500" height="300" />
+<img align="center" src="https://drive.google.com/file/d/1n_6EvFQ_HRzNQEinzGNc1rwOQUBtaJwt/view?usp=sharing" width="500" height="300" /> 
+    
   </tr>
   <tr>
-    <img align="center" src="https://privacyinternational.org/sites/default/files/flysystem/2017-12/giphy.gif" width="500" height="300" />
+<!--     <img align="center" src="https://privacyinternational.org/sites/default/files/flysystem/2017-12/giphy.gif" width="500" height="300" /> -->
+    
   </tr>
 </table>
 
