@@ -49,12 +49,9 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <table>
   <tr>
 <!-- <img align="center" src="https://drive.google.com/file/d/1n_6EvFQ_HRzNQEinzGNc1rwOQUBtaJwt/view?usp=sharing" width="500" height="300" />  -->
-![InShot_20231215_161927625](https://github.com/MokshaDill/MokshaDill/assets/79258226/b620bc84-91d0-450b-a338-e0d7272bf361)
 
-    
-  </tr>
-  <tr>
-<!--     <img align="center" src="https://privacyinternational.org/sites/default/files/flysystem/2017-12/giphy.gif" width="500" height="300" /> -->
+
+ ![InShot_20231215_161927625](https://github.com/MokshaDill/MokshaDill/assets/79258226/7f88f290-290e-49f6-87a1-631ee00d3b39)
     
   </tr>
 </table>
@@ -73,6 +70,7 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
   
   <!--Streak state-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MokshaDill&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+
 
 
 
