@@ -48,7 +48,9 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <td>
 <table>
   <tr>
-<img align="center" src="https://drive.google.com/file/d/1n_6EvFQ_HRzNQEinzGNc1rwOQUBtaJwt/view?usp=sharing" width="500" height="300" /> 
+<!-- <img align="center" src="https://drive.google.com/file/d/1n_6EvFQ_HRzNQEinzGNc1rwOQUBtaJwt/view?usp=sharing" width="500" height="300" />  -->
+![InShot_20231215_161927625](https://github.com/MokshaDill/MokshaDill/assets/79258226/b620bc84-91d0-450b-a338-e0d7272bf361)
+
     
   </tr>
   <tr>
