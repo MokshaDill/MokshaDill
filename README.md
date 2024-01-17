@@ -84,6 +84,7 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <br>
 
 
+
 <b><u><h3 style="bolt" align="center">Languages and Tool</h3></u></b>
 <p align="left">
   <center>
